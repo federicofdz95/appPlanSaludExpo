@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "appPlanMutualExpo",
-    "slug": "appPlanMutualExpo",
+    "slug": "appplansalud",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,18 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4106062f-388c-4bdd-956f-b50240794c47"
+      }
+    },
+    "owner": "federicofdz",
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4106062f-388c-4bdd-956f-b50240794c47"
     }
   }
 }
